@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------------------------------------
+
+Update BIOS to F20 Version
+
+Save & Exit > Load Optimized Defaults > YES
+
+Save, Exit, Reboot, Enter BIOS Again
+
+F2 (Advanced Mode)
+
+Settings > IO Ports > Above 4G Decoding: Disabled para Enabled
+Settings > IO Ports > Super IO Configuration > Serial Port: Enabled para Disabled
+Boot > Full Screen LOGO Show: Enabled para Disabled
+Boot > Secure Boot > Secure Boot Enable: Enabled para Disabled
+Save & Exit > Save & Exit Setup
+
+------------------------------------------------------------------------------------------------------------
