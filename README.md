@@ -8,6 +8,7 @@
 - Intel i9 10700KF @ stock
 - Gigabyte Z490M Gaming X
 - AMD RX 560 4Gb
+- Áudio Realtek® ALC1200
 - 64Gb RAM - 4x 16Gb DDR4
 
 ## What works
